@@ -49,3 +49,6 @@ C:\Users\trama\Desktop\OrderBook\TradingEngineServer\obj\Debug\net7.0\refint\Tra
 C:\Users\trama\Desktop\OrderBook\TradingEngineServer\obj\Debug\net7.0\TradingEngineServer.Core.pdb
 C:\Users\trama\Desktop\OrderBook\TradingEngineServer\obj\Debug\net7.0\TradingEngineServer.genruntimeconfig.cache
 C:\Users\trama\Desktop\OrderBook\TradingEngineServer\obj\Debug\net7.0\ref\TradingEngineServer.Core.dll
+C:\Users\trama\Desktop\OrderBook\TradingEngineServer\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\trama\Desktop\OrderBook\TradingEngineServer\bin\Debug\net7.0\TradingEngineServer.Logging.dll
+C:\Users\trama\Desktop\OrderBook\TradingEngineServer\bin\Debug\net7.0\TradingEngineServer.Logging.pdb

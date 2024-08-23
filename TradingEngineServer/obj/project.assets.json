@@ -664,6 +664,36 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "System.Threading.Tasks.Dataflow/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/System.Threading.Tasks.Dataflow.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/System.Threading.Tasks.Dataflow.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "TradingEngineServer.Logging/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.0",
+          "System.Threading.Tasks.Dataflow": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingEngineServer.Logging.dll": {}
+        }
       }
     }
   },
@@ -1733,11 +1763,48 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "System.Threading.Tasks.Dataflow/8.0.1": {
+      "sha512": "4pjq2vIPNZkKA9asAXzf5IRBb7K+b0+UQZZbpv6g029sAPZgnKdg/NNOC/DbJL8SWqYcFMVjb/T/YEmb0PHUYg==",
+      "type": "package",
+      "path": "system.threading.tasks.dataflow/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Threading.Tasks.Dataflow.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Threading.Tasks.Dataflow.targets",
+        "lib/net462/System.Threading.Tasks.Dataflow.dll",
+        "lib/net462/System.Threading.Tasks.Dataflow.xml",
+        "lib/net6.0/System.Threading.Tasks.Dataflow.dll",
+        "lib/net6.0/System.Threading.Tasks.Dataflow.xml",
+        "lib/net7.0/System.Threading.Tasks.Dataflow.dll",
+        "lib/net7.0/System.Threading.Tasks.Dataflow.xml",
+        "lib/net8.0/System.Threading.Tasks.Dataflow.dll",
+        "lib/net8.0/System.Threading.Tasks.Dataflow.xml",
+        "lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
+        "lib/netstandard2.0/System.Threading.Tasks.Dataflow.xml",
+        "lib/netstandard2.1/System.Threading.Tasks.Dataflow.dll",
+        "lib/netstandard2.1/System.Threading.Tasks.Dataflow.xml",
+        "system.threading.tasks.dataflow.8.0.1.nupkg.sha512",
+        "system.threading.tasks.dataflow.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "TradingEngineServer.Logging/1.0.0": {
+      "type": "project",
+      "path": "../LoggingCS/LoggingCS/LoggingCS.csproj",
+      "msbuildProject": "../LoggingCS/LoggingCS/LoggingCS.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Microsoft.Extensions.Hosting >= 8.0.0"
+      "Microsoft.Extensions.Hosting >= 8.0.0",
+      "TradingEngineServer.Logging >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1772,7 +1839,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\trama\\Desktop\\OrderBook\\LoggingCS\\LoggingCS\\LoggingCS.csproj": {
+              "projectPath": "C:\\Users\\trama\\Desktop\\OrderBook\\LoggingCS\\LoggingCS\\LoggingCS.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

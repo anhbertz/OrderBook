@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V+Qg8zOultnUwRlLKB+u9T5jCWjQniQ1SktXlK9kjAU8ZJ91ff6RhR/L5m06849CCnOeNIZlC05rH3Rj082G1g==",
+  "dgSpecHash": "67F4ThNzkVQ/eacCmyDlzyOuIigLk3lR4OxlPLMx2ohZ5R9/J37DzGBqmzpmEmKLBKgD1D7WYjaqdi9HRGDAkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\trama\\Desktop\\OrderBook\\TradingEngineServer\\TradingEngineServer.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,8 @@
     "C:\\Users\\trama\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\trama\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\trama\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
-    "C:\\Users\\trama\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+    "C:\\Users\\trama\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\trama\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.1\\system.threading.tasks.dataflow.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

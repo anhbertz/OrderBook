@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v7.0": {
       "TradingEngineServer.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.Hosting": "8.0.0"
+          "Microsoft.Extensions.Hosting": "8.0.0",
+          "TradingEngineServer.Logging": "1.0.0",
+          "TradingEngineServer.Logging.Reference": "1.0.0.0"
         },
         "runtime": {
           "TradingEngineServer.Core.dll": {}
@@ -433,6 +435,31 @@
             "fileVersion": "8.0.23.53103"
           }
         }
+      },
+      "System.Threading.Tasks.Dataflow/8.0.1": {
+        "runtime": {
+          "lib/net7.0/System.Threading.Tasks.Dataflow.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
+        }
+      },
+      "TradingEngineServer.Logging/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.0",
+          "System.Threading.Tasks.Dataflow": "8.0.1"
+        },
+        "runtime": {
+          "TradingEngineServer.Logging.dll": {}
+        }
+      },
+      "TradingEngineServer.Logging.Reference/1.0.0.0": {
+        "runtime": {
+          "TradingEngineServer.Logging.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -658,6 +685,23 @@
       "sha512": "sha512-OdrZO2WjkiEG6ajEFRABTRCi/wuXQPxeV6g8xvUJqdxMvvuCCEk86zPla8UiIQJz3durtUEbNyY/3lIhS0yZvQ==",
       "path": "system.text.json/8.0.0",
       "hashPath": "system.text.json.8.0.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Dataflow/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4pjq2vIPNZkKA9asAXzf5IRBb7K+b0+UQZZbpv6g029sAPZgnKdg/NNOC/DbJL8SWqYcFMVjb/T/YEmb0PHUYg==",
+      "path": "system.threading.tasks.dataflow/8.0.1",
+      "hashPath": "system.threading.tasks.dataflow.8.0.1.nupkg.sha512"
+    },
+    "TradingEngineServer.Logging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingEngineServer.Logging.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

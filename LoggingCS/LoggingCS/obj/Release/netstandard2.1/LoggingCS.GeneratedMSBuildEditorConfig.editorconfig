@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TradingEngineServer.Logging
+build_property.ProjectDir = C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\

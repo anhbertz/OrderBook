@@ -1,0 +1,10 @@
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.deps.json
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.dll
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\bin\Debug\netstandard2.1\TradingEngineServer.Logging.pdb
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.csproj.AssemblyReference.cache
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.AssemblyInfoInputs.cache
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.AssemblyInfo.cs
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\LoggingCS.csproj.CoreCompileInputs.cache
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\TradingEngineServer.Logging.dll
+C:\Users\trama\Desktop\OrderBook\LoggingCS\LoggingCS\obj\Debug\netstandard2.1\TradingEngineServer.Logging.pdb
