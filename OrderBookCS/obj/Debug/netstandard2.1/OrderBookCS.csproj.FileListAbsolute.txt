@@ -1,0 +1,15 @@
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.OrderBook.deps.json
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.OrderBook.dll
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.OrderBook.pdb
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Instrument.dll
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.dll
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Instrument.pdb
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\bin\Debug\netstandard2.1\TradingEngineServer.Orders.pdb
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.csproj.AssemblyReference.cache
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.AssemblyInfoInputs.cache
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.AssemblyInfo.cs
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.csproj.CoreCompileInputs.cache
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\OrderBookCS.csproj.CopyComplete
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\TradingEngineServer.OrderBook.dll
+C:\Users\trama\Desktop\OrderBook\OrderBookCS\obj\Debug\netstandard2.1\TradingEngineServer.OrderBook.pdb

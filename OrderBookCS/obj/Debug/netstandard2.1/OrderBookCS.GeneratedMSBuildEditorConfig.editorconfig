@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TradingEngineServer.OrderBook
+build_property.ProjectDir = C:\Users\trama\Desktop\OrderBook\OrderBookCS\
